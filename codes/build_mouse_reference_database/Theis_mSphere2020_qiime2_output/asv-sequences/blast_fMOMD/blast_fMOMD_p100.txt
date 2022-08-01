@@ -5,11 +5,18 @@
 # BLASTN 2.9.0+
 # Query: 95fdd816723ca482a5caba10bea171c8
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+95fdd816723ca482a5caba10bea171c8	093_001	100.000	253	0	0	1	253	506	758	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: b4f3850fd3c56b21b6eb92fc8e4c7087
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+b4f3850fd3c56b21b6eb92fc8e4c7087	KP278083.1	100.000	253	0	0	1	253	480	732	1.15e-139	487
+b4f3850fd3c56b21b6eb92fc8e4c7087	KP278084.1	100.000	253	0	0	1	253	462	714	1.15e-139	487
+b4f3850fd3c56b21b6eb92fc8e4c7087	KP278086.1	100.000	253	0	0	1	253	480	732	1.15e-139	487
+b4f3850fd3c56b21b6eb92fc8e4c7087	KP278091.1	100.000	253	0	0	1	253	480	732	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: f80166d86a7f15b69b6ac97505299c3a
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -17,7 +24,12 @@
 # BLASTN 2.9.0+
 # Query: 7f9b6e8f00d7dee79027e94f592ed7d7
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+7f9b6e8f00d7dee79027e94f592ed7d7	GU809184.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+7f9b6e8f00d7dee79027e94f592ed7d7	GU809185.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+7f9b6e8f00d7dee79027e94f592ed7d7	GU809186.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+7f9b6e8f00d7dee79027e94f592ed7d7	GU809187.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: e06e73c0550bfd3f63b73915855c10b6
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -29,7 +41,9 @@
 # BLASTN 2.9.0+
 # Query: 499f1c879aa937fd84ec658999d69c43
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+499f1c879aa937fd84ec658999d69c43	098_001	100.000	253	0	0	1	253	464	716	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 4f983ab505c9e0936ecafdda621aead9
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -129,7 +143,21 @@
 # BLASTN 2.9.0+
 # Query: 53e8f34b14b34a85e09d2cad651f71ae
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 13 hits found
+53e8f34b14b34a85e09d2cad651f71ae	FN599387.1	100.000	253	0	0	1	253	468	720	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	FN599408.1	100.000	253	0	0	1	253	468	720	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	FN599221.1	100.000	253	0	0	1	253	418	670	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	FN599240.1	100.000	253	0	0	1	253	399	651	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	GU809172.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	GU809173.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	GU809177.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	GU809183.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	GU809188.1	100.000	253	0	0	1	253	433	685	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	LC542622.1	100.000	253	0	0	1	253	475	727	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	LC542627.1	100.000	253	0	0	1	253	460	712	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	MZ227497.1	100.000	253	0	0	1	253	477	729	1.15e-139	487
+53e8f34b14b34a85e09d2cad651f71ae	KF658233.1	100.000	253	0	0	1	253	522	774	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 9a13cbb8e1b12468bf22d6a05aafb0c0
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -365,7 +393,14 @@
 # BLASTN 2.9.0+
 # Query: 945184b6386c192c0066e0a98a154780
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+945184b6386c192c0066e0a98a154780	067_001	100.000	253	0	0	1	253	500	752	1.15e-139	487
+945184b6386c192c0066e0a98a154780	066_001	100.000	253	0	0	1	253	505	757	1.15e-139	487
+945184b6386c192c0066e0a98a154780	065_001	100.000	253	0	0	1	253	498	750	1.15e-139	487
+945184b6386c192c0066e0a98a154780	068_001	100.000	253	0	0	1	253	505	757	1.15e-139	487
+945184b6386c192c0066e0a98a154780	090_001	100.000	253	0	0	1	253	480	732	1.15e-139	487
+945184b6386c192c0066e0a98a154780	089_001	100.000	253	0	0	1	253	526	778	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 75c7e84b89affffcf99b13b1781a6b1b
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -469,7 +504,13 @@
 # BLASTN 2.9.0+
 # Query: 922d33a2963d3e87a3d4df6b82371235
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+922d33a2963d3e87a3d4df6b82371235	078_001	100.000	253	0	0	1	253	516	768	1.15e-139	487
+922d33a2963d3e87a3d4df6b82371235	061_001	100.000	253	0	0	1	253	516	768	1.15e-139	487
+922d33a2963d3e87a3d4df6b82371235	077_001	100.000	253	0	0	1	253	537	789	1.15e-139	487
+922d33a2963d3e87a3d4df6b82371235	001_001	100.000	253	0	0	1	253	516	768	1.15e-139	487
+922d33a2963d3e87a3d4df6b82371235	002_001	100.000	253	0	0	1	253	516	768	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 51111e66d97d8fd3f0bdf584d69c7835
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -561,7 +602,9 @@
 # BLASTN 2.9.0+
 # Query: fd10066b8cc30cf6a7f1036e45437887
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+fd10066b8cc30cf6a7f1036e45437887	103_001	100.000	254	0	0	1	254	486	739	3.05e-140	489
 # BLASTN 2.9.0+
 # Query: 42f54f9a2551f3142f5dc7c08684882c
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -637,7 +680,14 @@
 # BLASTN 2.9.0+
 # Query: aa7c06458b92f226be24b82547a22510
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+aa7c06458b92f226be24b82547a22510	012_001	100.000	252	0	0	1	252	514	765	4.34e-139	485
+aa7c06458b92f226be24b82547a22510	046_001	100.000	252	0	0	1	252	493	744	4.34e-139	485
+aa7c06458b92f226be24b82547a22510	011_002	100.000	252	0	0	1	252	515	766	4.34e-139	485
+aa7c06458b92f226be24b82547a22510	011_004	100.000	252	0	0	1	252	516	767	4.34e-139	485
+aa7c06458b92f226be24b82547a22510	011_005	100.000	252	0	0	1	252	516	767	4.34e-139	485
+aa7c06458b92f226be24b82547a22510	011_001	100.000	252	0	0	1	252	514	765	4.34e-139	485
 # BLASTN 2.9.0+
 # Query: af140e3881d1c74ce8b17a5c8979dfa5
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -669,7 +719,10 @@
 # BLASTN 2.9.0+
 # Query: cd64f9b653d0444b04264fd6f09b715e
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+cd64f9b653d0444b04264fd6f09b715e	MT967836.1	100.000	252	0	0	1	252	524	775	4.34e-139	485
+cd64f9b653d0444b04264fd6f09b715e	OM658620.1	100.000	252	0	0	1	252	532	783	4.34e-139	485
 # BLASTN 2.9.0+
 # Query: 5f1f6453ad88dc836876671d27f97f58
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -817,7 +870,9 @@
 # BLASTN 2.9.0+
 # Query: 836cd5ea357ad392c00a7e48d921be1d
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+836cd5ea357ad392c00a7e48d921be1d	087_001	100.000	253	0	0	1	253	540	792	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: c0d5395792eadbf5f62e8ffb14fa0262
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -1001,7 +1056,12 @@
 # BLASTN 2.9.0+
 # Query: f4801b7a68515d9005fa572ee6afdf41
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+f4801b7a68515d9005fa572ee6afdf41	HM807685.1	100.000	253	0	0	1	253	507	759	1.15e-139	487
+f4801b7a68515d9005fa572ee6afdf41	HM811408.1	100.000	253	0	0	1	253	507	759	1.15e-139	487
+f4801b7a68515d9005fa572ee6afdf41	HM812897.1	100.000	253	0	0	1	253	507	759	1.15e-139	487
+f4801b7a68515d9005fa572ee6afdf41	JN610607.1	100.000	253	0	0	1	253	417	669	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 241358149d169fe77c6d1070671e4264
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -1233,7 +1293,10 @@
 # BLASTN 2.9.0+
 # Query: 0da32f8f5c5fe39c14b5309de056e8b3
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+0da32f8f5c5fe39c14b5309de056e8b3	040_002	100.000	253	0	0	1	253	488	740	1.15e-139	487
+0da32f8f5c5fe39c14b5309de056e8b3	040_001	100.000	253	0	0	1	253	488	740	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: b9601452981d5393bd6c0ed100a35ff0
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -1501,7 +1564,10 @@
 # BLASTN 2.9.0+
 # Query: 65641452be75528754b5ae258ba661c1
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65641452be75528754b5ae258ba661c1	036_001	100.000	253	0	0	1	253	489	741	1.15e-139	487
+65641452be75528754b5ae258ba661c1	023_001	100.000	253	0	0	1	253	514	766	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 4ac5de6617d5b4d5201a8d2d98c785e7
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -1737,7 +1803,10 @@
 # BLASTN 2.9.0+
 # Query: fd496fd32dc8c08ade2e8b6c9d8ee13d
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+fd496fd32dc8c08ade2e8b6c9d8ee13d	064_001	100.000	252	0	0	1	252	538	789	4.34e-139	485
+fd496fd32dc8c08ade2e8b6c9d8ee13d	063_001	100.000	252	0	0	1	252	539	790	4.34e-139	485
 # BLASTN 2.9.0+
 # Query: 920a4d1a3e7643a60851fd9c292f5b09
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -2129,7 +2198,15 @@
 # BLASTN 2.9.0+
 # Query: 65d43491988bfe557da4d86a5ba25dae
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+65d43491988bfe557da4d86a5ba25dae	058_001	100.000	253	0	0	1	253	534	786	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_001	100.000	253	0	0	1	253	542	794	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_003	100.000	253	0	0	1	253	542	794	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_002	100.000	253	0	0	1	253	542	794	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	070_001	100.000	253	0	0	1	253	515	767	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	060_002	100.000	253	0	0	1	253	495	747	1.15e-139	487
+65d43491988bfe557da4d86a5ba25dae	075_001	100.000	253	0	0	1	253	515	767	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 436967ef397df9cc24d7c942838b8d4c
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -2153,7 +2230,9 @@
 # BLASTN 2.9.0+
 # Query: 7b9c8d4a1896d84d92ab4820edd025a6
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+7b9c8d4a1896d84d92ab4820edd025a6	080_001	100.000	253	0	0	1	253	509	761	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: ccef1ba90f0bd209d05f65ac396f2bc6
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -2201,7 +2280,10 @@
 # BLASTN 2.9.0+
 # Query: 3ebe761bfb1238c87195d431f41bf976
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+3ebe761bfb1238c87195d431f41bf976	026_002	100.000	253	0	0	1	253	503	755	1.15e-139	487
+3ebe761bfb1238c87195d431f41bf976	026_001	100.000	253	0	0	1	253	512	764	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 092f4b706da5f955af7432561d292cea
 # Database: ../../../../../databases/fMOMD/fMOMD
@@ -2421,7 +2503,11 @@
 # BLASTN 2.9.0+
 # Query: d46e2205f0c6ecf67b51f83d111c509c
 # Database: ../../../../../databases/fMOMD/fMOMD
-# 0 hits found
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+d46e2205f0c6ecf67b51f83d111c509c	019_001	100.000	253	0	0	1	253	515	767	1.15e-139	487
+d46e2205f0c6ecf67b51f83d111c509c	034_001	100.000	253	0	0	1	253	500	752	1.15e-139	487
+d46e2205f0c6ecf67b51f83d111c509c	048_001	100.000	253	0	0	1	253	525	777	1.15e-139	487
 # BLASTN 2.9.0+
 # Query: 35fda85c645266be6de99032e5d3903c
 # Database: ../../../../../databases/fMOMD/fMOMD
