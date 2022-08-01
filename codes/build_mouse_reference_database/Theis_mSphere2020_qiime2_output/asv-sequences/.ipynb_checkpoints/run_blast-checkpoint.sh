@@ -1,0 +1,2 @@
+#blastn -db ../../../MOMD/MOMD -query dna-sequences.fasta -out blast_MOMD_p90.txt -perc_identity 90 -qcov_hsp_perc 100 -outfmt "7 qacc qseq qlen qstart qend sacc sseq slen sstart send pident length mismatch gapopen evalue bitscore qcovhsp" -max_target_seqs 10
+blastn -db ../../../../MOMD/MOMD -query dna-sequences.fasta -out blast_MOMD_p$1.txt -perc_identity $1 -qcov_hsp_perc 100 -ungapped -outfmt 7 -max_target_seqs 100

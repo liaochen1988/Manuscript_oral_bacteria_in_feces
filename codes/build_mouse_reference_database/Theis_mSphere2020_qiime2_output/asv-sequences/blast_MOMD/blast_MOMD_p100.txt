@@ -1,0 +1,3218 @@
+# BLASTN 2.9.0+
+# Query: ff2be076cf928bdf0eb0935b49878911
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+ff2be076cf928bdf0eb0935b49878911	010_001	100.000	252	0	0	1	252	491	742	4.91e-139	485
+# BLASTN 2.9.0+
+# Query: 95fdd816723ca482a5caba10bea171c8
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+95fdd816723ca482a5caba10bea171c8	093_001	100.000	253	0	0	1	253	506	758	1.30e-139	487
+95fdd816723ca482a5caba10bea171c8	017_001	100.000	253	0	0	1	253	529	781	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: b4f3850fd3c56b21b6eb92fc8e4c7087
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f80166d86a7f15b69b6ac97505299c3a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7f9b6e8f00d7dee79027e94f592ed7d7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e06e73c0550bfd3f63b73915855c10b6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d04b16de2b3bfa84754a4eafcfaec69a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 499f1c879aa937fd84ec658999d69c43
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+499f1c879aa937fd84ec658999d69c43	098_001	100.000	253	0	0	1	253	464	716	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 4f983ab505c9e0936ecafdda621aead9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8e6f1849d93723676dff6cb1962941a8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 72e530a4206f2e4804d502f4dfca8387
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b44aff2995f396f00ad579d8e6684335
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 27b0bca5c048a9dfade9558dcf685681
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7421a0056850e30172e2c541c9215c11
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0ebb2cf4a2017aeaefadf9ae5062eb62
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0df6c802966e8670279671824da4f10a
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+0df6c802966e8670279671824da4f10a	052_001	100.000	253	0	0	1	253	633	885	1.30e-139	487
+0df6c802966e8670279671824da4f10a	016_001	100.000	253	0	0	1	253	545	797	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 2536b1aed686ef9caffe2d80d6e823d7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9cf3ece63fb5e5d8a14a81d6ec6f2b7b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 938fbbe51af86d1d7ebd6817a0f0bd24
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+938fbbe51af86d1d7ebd6817a0f0bd24	029_002	100.000	253	0	0	1	253	509	761	1.30e-139	487
+938fbbe51af86d1d7ebd6817a0f0bd24	029_001	100.000	253	0	0	1	253	520	772	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 2c97c50bb92d1350081db701c898ae82
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1dde417c45171347b0ec07088aa49839
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 020f48a69f9bf40e54fbac885f94695a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1dacfff5549a7d2494f6a935ea1fb7e8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 596f70447030c8a5e3ddf2bd3eadafa5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1930d2ae4018583d606e705beea31bd1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 960aceada5d86b21b6f3c6a38d14822d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 04e96f8e3e9a8aaea0cf71feba8b0e16
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0e6645acd71bc7e1dc285638b8c3b44b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 129500150cad877075ed12b0c9424282
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7b28c20e72c6c95b3e604f0849245770
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a7b2ebeb585c5a9437a670f13d3234db
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8ac6eb8f6cb6cb09ec627e2a9cc972bd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 53e8f34b14b34a85e09d2cad651f71ae
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9a13cbb8e1b12468bf22d6a05aafb0c0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a9b24370bdb02a8ee91855de7b8b2813
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: acf76b1f22c9536ca982df6f9b0219da
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0294faa92b028e5b57645db6d1b45dea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2eb2fe0471e37d54b5e1c47660220ad6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3471f88cb44a7a8c95f6c7fe00ec8261
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9091e21c25fbf76afd1d52aeb7fb8823
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 811f358e4e89eecbd75298ffce878cba
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ed78bbc1db0ff176088ec1eeb30cde95
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0f2a5acc53e55f2c9f0c7409421dc5a0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c1def48b42e159b33dd366fb124ea638
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ece8f3889c05b3350152571f8dda9ab7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f1b5d72cafaaea7b61c531cb90452d9c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 91c6bd1773aaec302882b43aff6babc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cb8b8a6ee6bcfa115f8b24a45fa1c12a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f09f257605135a6049b847768387fb33
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5fe7368c69e66529f0fe71354cc10fc7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5292f29cab69c370997bcb039ef68d64
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a8c32a5a27d0d56118ecc368e6b0329a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 564828003ef8ce117a61d0098c6ff983
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 153c93e302c4700f4c3515546aa47a1f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f3f57fb4feeef35aada1a409a3352520
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c5e5fd5c9af649aec207b86dee76d5f3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0b9662ad8852204cd93091fa70261cbd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0d29a1eb24f264423251f3b2a92f7914
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0a3cf58d4ca062c13d42c9db4ebcbc53
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 33ea9f7df7a02a6f06fb9700ed440401
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: daae43be6cf06991f62a085ba8bff3b6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e4597f1dce864c29882fa64f616d1a6c
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+e4597f1dce864c29882fa64f616d1a6c	099_001	100.000	252	0	0	1	252	469	720	4.91e-139	485
+# BLASTN 2.9.0+
+# Query: c75ae6008025d80134bd14e9712f9d5c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fe1613129b71ea6b0351addf25c8bdbf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8da18b476b64f6f053647455b6890f80
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e04cb8c96d35fee0e181a15fc4511d0c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d6eda88bd8370a52076b0dafde12249a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 610fec3c1f64661f446a6e8270f23d0c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5858157a5f3c4bdbc235927eae7ff303
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fb4f0a79b97d6f24e3040e8145b0a6e7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dca5bc29c8ae92cee48c6ec73347a13b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b00c3432b2ba4ccb41e22cbf1f9e336d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1c281deaf71c6d702d1ddadfa953eac6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 20ac30224f0d6923615fbc03ac84563f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ecb3759e804e8c86d9fb0de817207fe9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0c10bc475287f99f197cfc1c2b50947f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 958d78a02bef69a795806f97adb117ea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c3ff4c29778c6c86865687a4061a3382
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1fdb09b154f347c35de3aad68774cb79
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2f38713af6dbed30ebf9709d2d9aaa5e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 08eba18fc9aa967e5e29f20ee5041a60
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ca8316436bfd3aa62fc76e2ed5b8fca8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 37a0a427f45ea3b8299b4a41c10d02e6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dd3f1d27af1be908d3c3fd143339aa9c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4afe2ac3a7c14218056ecc317bae15e6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 924668f542df9de35c2226e4a6cf09bd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0570b4a067b34904d37cb5ddc848b221
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: df1e3080300aed496c300246714bd838
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 02408cd609a6b7f8134da2f8955136ac
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 48120f2d28136884787660eb4953652a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2ef1e51ab1cf99a3c6417b05a060830e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 945184b6386c192c0066e0a98a154780
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 6 hits found
+945184b6386c192c0066e0a98a154780	067_001	100.000	253	0	0	1	253	500	752	1.30e-139	487
+945184b6386c192c0066e0a98a154780	066_001	100.000	253	0	0	1	253	505	757	1.30e-139	487
+945184b6386c192c0066e0a98a154780	065_001	100.000	253	0	0	1	253	498	750	1.30e-139	487
+945184b6386c192c0066e0a98a154780	068_001	100.000	253	0	0	1	253	505	757	1.30e-139	487
+945184b6386c192c0066e0a98a154780	090_001	100.000	253	0	0	1	253	480	732	1.30e-139	487
+945184b6386c192c0066e0a98a154780	089_001	100.000	253	0	0	1	253	526	778	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 75c7e84b89affffcf99b13b1781a6b1b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c2225a5d217fb32406ee5f7e10ef7da4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b310236a69032ef47e5c274f5256115a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cb13465f3f47df578b36420a10175863
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ee766857ab5fc018ac26632146bc90e1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 634e293920d238dfa24961d096247760
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c67805e12dc927c5b3ba6b192381ecf7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6a8118b17d1d40cf877db24449ceb616
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e4a572bc7492c8561c44f9e68c84b64e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 96313c6176968c6b479464ca68dc3096
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d3d0b6aba6f97f1ba77a412531587a84
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ef3a40c4f26b5019887d73ceaaab84f2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1841ceeb252a3e471065c84c01175567
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bf34422106e5974ddf75216e2c05273c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e127450ed2ad1088a651c6a3f8a405b3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 898eb92ef2d1ef893f7d0c383527b44d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 92b8a97dbdde7cd3517311bf75a93a25
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 325ce268c8bbe026198a5ca3dbaad5b9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 18362a5e774b8f98cf758656266ec7e8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e9c6d3d5afd5747c2901ce47079bde79
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 226ab97195d19858d059fffaef17f5d7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e24e7b9b383a4e46a7761d21ddd703aa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f3e9d78daeea42d345080748e31ae3dd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 727992952afbbf55406b97e29855c9c2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3d2cd874a4eea35af603ca0c0c25c89f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 922d33a2963d3e87a3d4df6b82371235
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+922d33a2963d3e87a3d4df6b82371235	078_001	100.000	253	0	0	1	253	516	768	1.30e-139	487
+922d33a2963d3e87a3d4df6b82371235	061_001	100.000	253	0	0	1	253	516	768	1.30e-139	487
+922d33a2963d3e87a3d4df6b82371235	077_001	100.000	253	0	0	1	253	537	789	1.30e-139	487
+922d33a2963d3e87a3d4df6b82371235	001_001	100.000	253	0	0	1	253	516	768	1.30e-139	487
+922d33a2963d3e87a3d4df6b82371235	002_001	100.000	253	0	0	1	253	516	768	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 51111e66d97d8fd3f0bdf584d69c7835
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f5e65944985d39991cba3fab949a0150
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 06538b77450f85903962437f449fa60a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f86c536a0839b448a93580a165464ab4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bd62f8620c74fce7ebad2d327bcef343
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4598e7db6dff8f019ff4f6c50dc05df4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c7205100c08de2585db74f670a36edf9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 78fb4140156b855369c5c80f4555cfd7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3562d3a0374b9f2ed190c1a7aa7dedb7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 46106f5c1a2dda999551e9675cd3568d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 401e9cda8dd173db76e03cfe30f2274e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2d01d21dc12ee96d173b6ab4e83f9a3b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d2be1254f5e7eb97bd42ec342d9cb11d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d925f54f2129619db22eb998d6021440
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6c921e3ae0af506f54295d074ca071bc
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cc82a5a0b284dea47583c8afa5a99755
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 76b219eb7351347070ab7205275b9c02
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ea9c1edfdf60a0a532f516b20689e41b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: aa19b65fa066defdc12ae4b7f2f00066
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9f3ae9f6096976f00cd7c13a4717ff1c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e2ca214f7055c2a6eedc54ac7689d169
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b4138e283c45cf0bc5387f9794bdfbcf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fd10066b8cc30cf6a7f1036e45437887
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+fd10066b8cc30cf6a7f1036e45437887	103_001	100.000	254	0	0	1	254	486	739	3.44e-140	489
+# BLASTN 2.9.0+
+# Query: 42f54f9a2551f3142f5dc7c08684882c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c130ff4bc4f4b06b3e42f5c64b6ee6a0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a0814dbcfc36b32aa80e5af6bca83748
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f54447ae705d557e2c2b3777fbdd56f0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9d24a5958524b572f096d356fd33187c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2cf0267a31dc6f1b8ee65c913b8f6e4d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: df0e3d38eec730326754d8c17a8b8efe
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 35f3ce6a0ee2829e6ccb193be3c4338b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 22907d450b79c927e4ffe34a2d09d2aa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1f6f400a4c40ce9f7cea0e7145938045
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d93a3ef54cd04d16c30a94e15287caf4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2197e3c697e9c1427ae1c3277d3c71f9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 85a3e769a721c55ca2b9880a56a43373
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 901c9973bde010c1a5c49023e63cc252
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4b3fc5de9758cf6cdb010bd41d101a65
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 60a2e0a4d6760de56ad66a42a4093dc5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3883c3ab093249287e47ca21ff186ca4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f76f9398a707c47754f8308d099abd13
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: aa7c06458b92f226be24b82547a22510
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+aa7c06458b92f226be24b82547a22510	012_001	100.000	252	0	0	1	252	514	765	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	046_001	100.000	252	0	0	1	252	493	744	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	011_002	100.000	252	0	0	1	252	515	766	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	011_004	100.000	252	0	0	1	252	516	767	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	011_005	100.000	252	0	0	1	252	516	767	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	011_003	100.000	252	0	0	1	252	514	765	4.91e-139	485
+aa7c06458b92f226be24b82547a22510	011_001	100.000	252	0	0	1	252	514	765	4.91e-139	485
+# BLASTN 2.9.0+
+# Query: af140e3881d1c74ce8b17a5c8979dfa5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a69c0a328e1b282389062478c5d49c3a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 538add871396bc31fee52b4c6e73542a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 14e78619269b8c45554ab4a8ddf2f22c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5e18094f37d33836726fabc09f8e46fc
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e1f3dca7a444e322745b21064cf6fbd2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b301115074f6e3de36efa48b692c7f8b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cd64f9b653d0444b04264fd6f09b715e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5f1f6453ad88dc836876671d27f97f58
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4422afa5e085d3e4373b56dd5c28160d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2bc5942b5fd0f8140d1eaf96be69ff40
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c982470b2a0c52e8606b0898f3616f42
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: efe7065cac8d8a73ea31de1bb2deab8b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0f276b28ea3ba352f6fd667c1e298c38
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 212a80f24d6b5b5282958baab371202b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 185fd5fa18cb1cc8b0fa2bacf60af299
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 08eedcaf8f982611c4982038139f6271
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d3d5f57b1c8aafeca61afdb1627d2990
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bec0575e1d6a5e25aeb36be5fa240f8b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bbc6a214626b3f3c4b8b1d953beeff7c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 85db0d60e8985f5dd02b1b3c10e2c371
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5eaeab6fa2a8efe96eac7a0712c65080
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b9ed1a2c86edb972db7742981e6901da
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a1fe1f45720a7ea7649cbaff45fa34e3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e30216b1d3f1ad1922ccf61973f45787
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7edcf5ecdce390629d592a7f513444a8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 37a562643016cacc537440b7e142b40a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 84977ba94188c5d008f9861e3e14d0a5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 759456dbbcad59cfb49ade008456f99e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4a18a72af06424cd6600b6f548ea8f05
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c8e34bb10306cd8cc72e42eb1313b7c8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0fde62806e4413be1846e836dba2c786
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2c545231aacaf1d8c6b3f8f8930d4363
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 75bd82a728427b9fe0161be3977a9dee
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c803726dac1aad6846d209e915cea275
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d85f7c80c1ad16d5903ce9d78ade5916
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ce78414357068359ddae6a47b6592a08
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 569653b1659271a290facfcedd0de061
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 10 hits found
+569653b1659271a290facfcedd0de061	021_004	100.000	253	0	0	1	253	505	757	1.30e-139	487
+569653b1659271a290facfcedd0de061	021_003	100.000	253	0	0	1	253	502	754	1.30e-139	487
+569653b1659271a290facfcedd0de061	021_001	100.000	253	0	0	1	253	503	755	1.30e-139	487
+569653b1659271a290facfcedd0de061	021_006	100.000	253	0	0	1	253	524	776	1.30e-139	487
+569653b1659271a290facfcedd0de061	021_008	100.000	253	0	0	1	253	525	777	1.30e-139	487
+569653b1659271a290facfcedd0de061	035_001	100.000	253	0	0	1	253	544	796	1.30e-139	487
+569653b1659271a290facfcedd0de061	035_003	100.000	253	0	0	1	253	544	796	1.30e-139	487
+569653b1659271a290facfcedd0de061	035_005	100.000	253	0	0	1	253	544	796	1.30e-139	487
+569653b1659271a290facfcedd0de061	035_004	100.000	253	0	0	1	253	544	796	1.30e-139	487
+569653b1659271a290facfcedd0de061	035_002	100.000	253	0	0	1	253	544	796	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: f44404ea806c18f6b05b7cbb4f3e5fd2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c1fb523690f4db6515ed0ab146d1ab8c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fe9a3e2c5c45bec637506a2ae1eb243c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 975d5aabbcbb53d18b84ee9a8024fcd8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cdb79eecfa38ac58e99bfdef45fabfce
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a5a7486c3e60ff3d6cc20e9e6359e7ea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 836cd5ea357ad392c00a7e48d921be1d
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+836cd5ea357ad392c00a7e48d921be1d	087_001	100.000	253	0	0	1	253	540	792	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: c0d5395792eadbf5f62e8ffb14fa0262
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d80a7337f5b24c90a8cc2dd4d9896e61
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5d01d303184a02f64aa7e9537256a469
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cfdf39cd6545fb6a7ddb747c3393c225
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e36be349dea51383ef7c2f26dd242def
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 62dc76a09326c359be5946507e82e9fa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3ee3085cd6f25c2449332df3675b9eee
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ebc4cebda1feae3f47fdb85cb7ec8152
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f9c752d5c510e07c457e029af2d6d31b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7376eb30d4a59d2e35c4a558fa824a08
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e1d34bfaee639f5be81d28b8b33c5e2f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 707740d13076516032127f753473cfc3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ce72009c0c36b5ff547b9a0c89f669ce
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 682dde043b6d08cf20021dc1e423446d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4e0a65b0a2fab7bf0f307d360b679d87
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: edc0a227f7a1c57abb3163fd6502aa16
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f0ea1e3d7fabfb8497741de9a3402b6e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4f234722e5011840e4f72bf4cc055083
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8c65d91e013525d1c8606fab40e0a88b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 22f1fa0bdcc19746dee080bcc12a1840
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f0a3b85336766433b385b8e5d23182d2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 09fe878f37fdb48cdc41797c656c05b2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 646ce7e45794e2cacc0d6acf2cf3c6ed
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 045acd620c390c80b3447bae8b6a039b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3a76b9a24f56dd446a08068caa7c0151
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5fbf02642aa67178b84d734d4f155d88
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b3b9843bbbe0fbf712a588255088fd4c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 61fb5ca7cdf03302d8aa64792733a5eb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5486b3596fd06f9ad4191bad37149a40
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 12470c486f558c083c46b45408cae9c6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4469f71600c5fc467c448ebd212f49cf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ed48afc0cdaf8c5d9801a19cdf95e0b9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d3f29ed9548a44b4aa014b3592134e60
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6337b308d49ea78bc68f9100ca6c62b4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2a89717b521dc276ae1bd08090909dc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c4170fd31c9aceb042c699e6c8b0f486
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 83675d30639c20d61e9f59c2b956ee5b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 69b165fab43e2588c34b281a19b6481a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bfa3561ca0d31bca54be08e2d9f7937f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 35b8c10c192360a7cdad628a185e99e5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 97d033725a3fcb0e6b0f9554365d4e0f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e238c6f976254aa34d2106b20782549a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9b4036adb487adfe4ca484346b5b9a7b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 08ce27cee52afc14d82faaae7852a600
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cfb6d4bf474238fa56307228afe87405
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f4801b7a68515d9005fa572ee6afdf41
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 241358149d169fe77c6d1070671e4264
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b2224d09fb56fffb7949a37935a5b572
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: da655131b22bfd130476359a287ed672
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 234166274fbb22e38900a26eb84ece58
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 57e11c3559fa2ef79a2702684229e4ba
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fab19e407fc7d0aa7929a7eae23d8b53
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7d518e827d9d6a525a3c1d4b64bdc73c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2bb9f3162d8c41e8f1045c8b52c3878f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4066e07db1bae989fd02d771401e3b09
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5bbc37962b69b4f2cf25bbad864f8406
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 621c47eba23ae9c542cbea58e92ff9b2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 99ee92e36a3bfda54437f2370facd8c8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 37a7e187d35366eb6167cbe90e558af1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ffac4ec15a9162aa65951455b9652aeb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8e74f6f63a5f9a304aeb8284be71fd23
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3dfaa3fabdf04711351c97af550d2921
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7911816f5e81f650f769aba0d5c708cb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 36d9f553b6f26520e7a6f8671cdde1f5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3abae39e94cf51920aec2b9fb42b53a9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9f2bd161ec257049345c0dcbac0caa78
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dc6ae08657c6ddc998f5ae806ab8934f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 50c77a7d7927650d7b1a093e9d2c62de
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4e1bda045e6ba843353281138c649093
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 71388bf0952df19a8fad5f1bfa9d8c43
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cf875aa5375131a1cd5c9fb01cca5f1e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0f67a5e1b571067bad8ca732ad341358
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 26d95f66b97240febac5d7976fe5ebaf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1b5aa72a8971f998f5ca89390e6fefb7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 90efbf79b027835779101fc55504e842
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6d4ab2107d92228c6751838e7dbbe697
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 885af48524af5ccac2ffcff5abf6c1f9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 13506518b825bfbd65794347af5958c6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 69a11f927915e2a3ba1f7b9c84486527
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1ea2c3e2a528db3d3be74e6d87fc2942
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e438498696e4ce6da6b786e98f911a9e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c518773de1fa8f58aebfc3c18e017d10
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fcc84f75257e928f79853e39bb2c6d23
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b0f809cbabf3ac99182581ec095868b2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b2097d12843899152a99e4faeb92e3e6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a07dbd6b81597b810de81ac0ad6caf26
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6116fd7dc95407952dfa6a8cad835556
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1332b0dcde33b5f46ce13a45f40f5b9a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 41968913d9ca2d9dfd73c99f7947bb01
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ab620840ec71573b9d4fd3816bc52d02
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: eb1d7f519ae360e6e68a2f1520785e5e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a828d86ae6b1ae29eea5092499bc99df
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fb3376cd5dd7b9f4c866e17253a3e5db
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b8b18f589b294a4bf53dd603995c4963
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 26ee5cc033fe90d66abb46599510136d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: eb780084d3c5b406ff6ff7a4734850ec
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fcc58885c1a8654bf710ef3670e09067
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0f4a15d85033f63632e910d9603f3918
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ce40f273a2b6e2ca6c9a07d963892f67
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 81f59f6a76c8682de1719c97b5b24173
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8ad691ed2c82e37ad4174a810573160a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 12691e42e5f8f917a8ca55e38670afdd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 805c0959b90cd47bb52d9f6571c5fb6a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0da32f8f5c5fe39c14b5309de056e8b3
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+0da32f8f5c5fe39c14b5309de056e8b3	040_002	100.000	253	0	0	1	253	488	740	1.30e-139	487
+0da32f8f5c5fe39c14b5309de056e8b3	040_001	100.000	253	0	0	1	253	488	740	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: b9601452981d5393bd6c0ed100a35ff0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9ecb011b73b151660fc0f8650ef1da00
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9b89b811be9292552e327f16a217ee6f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b6a66219872cf67ce4a39aa5c02b972f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: deb6cb498b1f0a2e2098d8698813c54b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 04f11566c760a465cbfa03687a11b21b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1e66289327edd690ec0ad509d4257101
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 484f362cffbe754445394334e80b1a97
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 08faf2041b38f0c8f2faa68e7d5edd31
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: af85f5521dbfbe7b399b45b25c26e0c4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4380abc163ecefa354d7002925971253
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7398a8fcbc69240bfbb4d43d2d0a89c8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 31217980cfdf305668ba9c8482a34e81
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4927f5442b2fec699888689c4d58db0d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b8455681fc92d051fdd023aa62417fb3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a9fa77fde69f69499b9e8a7567be8836
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ed00fb3691748ed4cae9230b19be54c8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: edc1dfcd54e37069be79c20ae7bfd68f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7799200040e84123975fe96a93db4500
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 13a6b08f7caf6964a9fcb73999d152eb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1e040db0048bb4067f6d355cb45648dd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6b58eab3efa3d8fc502c99815d19e932
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 50313555c1a4385e25c85b06a5c8ad42
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 03d1db1ccc574034f8242e94d57eca3b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0cd7b1cc6232d6896e37e6cff5489de7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 223141ee97781bbede60bb494d599448
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 001343881df5dc325f1eb57a0c3c9ec9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a6b8bcc8499b4128678a3a671a0bd004
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5284495840f983847ec0d0b741a9a471
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5331f57ab0f2e416cce5e856ca82bc07
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f64f55b1af9b863086103dbf76e94e9f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 533d12102a68064994d75cd26a0fe0e8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b454c56ae7923cac07b03196d8b77304
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cc8d5a6b380f6896c2e1b154b25abac8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7215e6796de3e835c8879da79b1b708d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3a7da564e6fafad475685e983a9435e8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 88eb686ca6222ba1acb01f0bcba963dc
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 924ab5cb47309a83e71d60320378d194
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 00dbcec69924cc7694d15fa0e7d8ad8c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9e9c4270966cf507485654eb33a69880
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 934dcdcb25ead801df5ed7b7c9f1477b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cd8d2ddb88bbe44dfa61a34dfd244b0b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6e5be229dd49e819c917d2ae8b72610b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a40989ab021cea8e78077a6ad97eb5ff
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f4c2f4fdad24c16219ee59244700e82a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c0f5347ba9bf78765148e77ea5e6da6c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b0393e75df8338f8224463cb1b34efbd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 36c15a424d4f137d2b3be97a5157848c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 06127cc96b470ea5c6a92494240202ff
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 959b9a53f413963f0de2b48bc4ceaece
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 10055b4de0b725f946f9dc5f3e8409df
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e335f74033bc634af43ee6baa84fa247
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d314a25b21cfe5a50eda70224e2cc92d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9a28e6b1aaae69477039957bc8a1222f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f930b13e0cc39314f832a37b4a6d0273
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: aae626812acc320e71e44fd7ab0561b0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d7ef89fbe0b04fbcfcd1261bbba40170
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 98953fcfd808ac05623976ff0d94bad1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9fc9295b222377c7bdb7e4e4db1e5e78
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 60f93fed83d17d00026301844c347826
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 912487364b4fda5993a03f47d60111e9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c2cd6f99655915682fbe061583f8b578
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: aa47f97eda87d644573886511f2ab067
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 396b3fd1c706efa74c9165955e2ae051
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8e3f034db0d8ef02a0598a5d7b33f129
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3f574a1c6ddd83e13a9f0c0d99628511
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 65641452be75528754b5ae258ba661c1
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+65641452be75528754b5ae258ba661c1	036_001	100.000	253	0	0	1	253	489	741	1.30e-139	487
+65641452be75528754b5ae258ba661c1	023_001	100.000	253	0	0	1	253	514	766	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 4ac5de6617d5b4d5201a8d2d98c785e7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 914cd932c40f857f5730b165792e560d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e5ee1d85ad16f8c94333754ffe9430ff
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: af55dfcf7516e6d1d45fa6f16ebc1ca3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e9ba53901533347c901fadbda061b68f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 624202795850b69909af0edee3880774
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e5d55481f7455ae8a4620451dc7ac39a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 61db0bd527e07336202fd0ff4578c042
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ec494ccbf94de2be48f3c7e4cf844046
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fba4814520ceefacdd71421bc14421c4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5810a546133ce2a9e01ba21225a87263
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 62ae243ee000954dd16cbb9f968a1789
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8212472385df0dc1b6527a764d613b7d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 943604f71971b419a2367b530186303f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e21eda6ded9bfc2d1e7887c901202c75
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 083bd1c9048882a21d0bafa8f00f9960
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bf8b632bb810c7e26b5a8902838e05ff
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b9089ac273fa0b1bada6ab1fddde9896
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7807a7c66b7e44dcda14bb67b2e6a4b4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 501a3e687c65822914e1a727e5f43331
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 62669fe8cbcac323242a062e3c6a3386
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c220411c349b8a75624ff17ef6fd3923
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 405600e715167b5f59ca7a6438a970e2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ff30b3d451a318cb5fcf4a87f83927ad
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 55e62a37d75f2f867ef4733f85b82a45
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 584333b9beb1cd043f4852fafb56bad9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2f1415b02743ec01687a83ecfe204d58
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e8d9cf1269b3bc64d0ea83e604600031
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 23194d2b7c5d9dadd6ac2f254c6586d1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3e064c3f883fdd051884a58537182eef
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 851bd80d021dcf4e9f3f11e95310927c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d0fb833cb3d12f63a22e8f82d8ded106
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e61b52cd3ace83b9a3515c17c6438a87
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d612ade10b9c17e4893424a4028995b2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7566bcf9eeeac8d93022dfa6b5e75ab5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b463dec5cc487445902f1fd8a8fa6c23
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 766219c96c8e1cd5e3934f165d0fb3e7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5ff8e498511cf932f268d705707899f2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6536a7bc84c95500ef05185628c9f407
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 86555947ddfc576c1bb9c42deb3998df
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 00d2bfd458db807e323de703ef956d04
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b18037a224663cf99b188ff37ab195d4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fd54faa463e99098527833fc9d14c4da
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a728a1dce17d5afb4677e6cc919c2391
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 649ad723b6bba0a739704e4004d139d3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ab2842489206ced58fc69409494bf497
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d35961df2135e8a8e70fea5c222cc68b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 90341c9ce791289cc32e350b44807ffb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 85781f76fdd51f1cea0eab36c8b76a12
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 294439019add4f19e8d5d95d40921207
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2312fa68895be3d61975e48dda211263
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fbfeb755a1e0dec98ff2ded7adb83400
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1ec78cf2c330d5a8e7c5c57640213633
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ebefdf8d08fff34644b25295c8cacf02
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d5f7d2fc363270f0d6ba1767ec1cbefb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bdf27bf0597da52d63064583bb957834
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d549f1083c9087cd47f572a91287d7d0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 70d9b060e6c0b37c28dd6b1b6073baaa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fd496fd32dc8c08ade2e8b6c9d8ee13d
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+fd496fd32dc8c08ade2e8b6c9d8ee13d	064_001	100.000	252	0	0	1	252	538	789	4.91e-139	485
+fd496fd32dc8c08ade2e8b6c9d8ee13d	063_001	100.000	252	0	0	1	252	539	790	4.91e-139	485
+# BLASTN 2.9.0+
+# Query: 920a4d1a3e7643a60851fd9c292f5b09
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cfb47b9196eb1274f3473344b8f3860c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 45b76e49b6500d8d245c2f27f6fbb143
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 840320d7f6d7e9149a050f538af0f1f2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ae56f854ea8f4a95b7950e1c3a9c4051
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 235a3631d1cc01de1de9aa6fc9025300
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4afbf45f017f69e11e9987ce9b6181c6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 242e96ecaab039a6dad6619d8bf8ef95
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d689ef6419a482e84132e00d66548aa2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1d9a5ba78b68a6a4e27d52ccb4dceaa7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f9f8a1e38fcd6166305ee1a90187d5ed
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: abc9d0654528d0b94c6a6f45455a239d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0775a8e56bc8da8ef0f0129616be163e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9e3b0ce9bb690b78f97f20c102089c55
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a9241ac1841b7463ed03c02216f5e93d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3d396ca32dc3a924002d286d7d902f09
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e00e288083c965bb4866d55d959fcb43
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6312bde5ed1bda468089673f268466fb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c5aad5ebe154556c8422b669638c0745
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c2236727ffae6d3d4521989084fcbe7b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7b5b130650d5363701e3d6d7aefa0cc3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 01a2d99629204c9a28d82e0a091fc01a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 23b320923349ef590f9be99fe3cfe3ec
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f80f737063601f7f957b2581f9d5524e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 577803f3876eb718cf8784b21f5ad1de
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 65e42c2d69bcf093aa2417e578bde9ec
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ef7a59a2c2a260e03e8e6df36b757be8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b99156ca841e99c7dc23bb92689252ea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: afe0ac6de2751fbddc2451d9c23dd457
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c5985dbbc899a40375e28e33a5368251
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 27a8f957ca0b31da39a039606a563588
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 65564efafb80060ef155c05105b8ed0b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 975aa5c886989b5d915be8945a42cb54
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: da2dfebc255ed8bff986e5313ef04c5f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d23bbe506e4ded19e9dd017b65275bab
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1e497e1ac49d920ea0cdd51644f96fcf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3233356e7b908c8a38c840e7b0d4a5ac
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4faf29595872ecd18ec3870d0eab2ce7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2fb954083b3f1afcaffc373517d20d85
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e39b8ad133b96f93ca93dc0d799be804
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0920dcf0f62fb2b3ab9e32f1c4edec37
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 885abd52ef81c7ca307cfa0b6954213c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2ce88e05f1919882b01289628bd3d156
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6df39670cb5b87a3c3684700af36463a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a80466eb93811bc792e1524c6afc316a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 00257344a745394a66444d38dbd49b6f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 515ad3b9f531ee0ac0f1cfb15b74f61f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 26308a229530dc0aea8b3106dfbae801
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ba19eb8193a715ebfc3d44d03ec4a608
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8ee89f151c34530344deec07ac9bee81
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 431b7a050a85f69cfcb3d5bb614a02e9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c670280329074d8a54fc4826c1d488bb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 54dcb911e3ab04e9d5b30c3912100b41
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5bdc099119a8cc5ee2c471209aac49e6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 272b51c5b1f9f19f0623c2a53fe10be7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2747bd94a19fbfa82f1e90e326d2f100
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4debdb072999105a06ee39aa8779f01c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3519f9c73704be543d04847eb1f56c51
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9cb14b5350091a81188274c9b3728031
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9908fffab7ed4f3bec44cda2f5084d49
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 7 hits found
+9908fffab7ed4f3bec44cda2f5084d49	021_002	100.000	253	0	0	1	253	503	755	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_005	100.000	253	0	0	1	253	527	779	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_002	100.000	253	0	0	1	253	527	779	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_006	100.000	253	0	0	1	253	526	778	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_004	100.000	253	0	0	1	253	527	779	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_003	100.000	253	0	0	1	253	524	776	1.30e-139	487
+9908fffab7ed4f3bec44cda2f5084d49	020_001	100.000	253	0	0	1	253	544	796	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: e2f7a842202a007080729d9ad28399fd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f46fb27c910cdc08b14ef44ef5fe22ea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 439c0b1b24a1903e711a8a171cbbe830
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a724c8f01abadc1581d8aa3227b27de1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cca91477a3fbe0c64d9a4d2dd0e9b6de
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3ebbd9acbfc57d29692685ee6f8946e4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ca26522b2ddd752ba553c9d7a4bbc102
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 817ca6c7f764f795484d3ca3bf564576
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3a0c3715dd9f87439ce1e19c41ec0802
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dca8a152f35348bd9540d2c52604fdce
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0278639f012e21f07140177e64a3cd7c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 630d3298d6df053fa8d57ead7cd4df95
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 03640d0789afd5bbe52c27126adaaf90
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 715a5706f5ea5356f6c4772dc98d6430
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cf6638b77d234084c256c5898fe8fe3b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: af702a0c8bb313567e06504faf80942f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d57069882681f1890c1a60e8a00a0df2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2bd5e1857ce4f841e0d45aa27ea09fa4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3e3f3715c117bd6dbfc4b3a5074f4619
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dc995097392d61c3d5cf0883006503de
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 00cd2f68603124759047487807589f27
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9e31424bebb25a100572229efc973274
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d17f7e8c2c4e41e8e25dd0f996a07c72
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dc6238760f7fb47db3501252a3751840
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e5c19d7800b18015f3a917fc015fc42f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d15bc449222795a9ff230013aa633686
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d040358e75e20b678a107f8ce18f4259
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 28f40d53329712ce4db640453b55ec03
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8ebc08dc024c07f42959ed5430f5e3fc
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 50ed67c6c21f5e4f38c9b9266a21d891
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b6e4148e383a925ab16ae3dc77f950ec
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f95b1ff191764f53c85f7e7ab0efb549
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 92030072e339bef6152fb65e836640c1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 303fc5ca9864033a92a5360e445c8593
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 49a23fbbd3beefbcc2f10c581bd44d01
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d06a285ea63bd5cc53a4b0e46d0cdd72
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 555e7337af6d4bfbde0772946f3ba43a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 65d43491988bfe557da4d86a5ba25dae
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 14 hits found
+65d43491988bfe557da4d86a5ba25dae	058_002	100.000	253	0	0	1	253	534	786	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	058_001	100.000	253	0	0	1	253	534	786	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_001	100.000	253	0	0	1	253	542	794	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_003	100.000	253	0	0	1	253	542	794	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	004_002	100.000	253	0	0	1	253	542	794	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	070_001	100.000	253	0	0	1	253	515	767	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	071_001	100.000	253	0	0	1	253	514	766	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	059_001	100.000	253	0	0	1	253	534	786	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	072_001	100.000	253	0	0	1	253	523	775	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	006_001	100.000	253	0	0	1	253	516	768	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	073_001	100.000	253	0	0	1	253	534	786	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	007_001	100.000	253	0	0	1	253	514	766	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	060_002	100.000	253	0	0	1	253	495	747	1.30e-139	487
+65d43491988bfe557da4d86a5ba25dae	075_001	100.000	253	0	0	1	253	515	767	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 436967ef397df9cc24d7c942838b8d4c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1f3fd62411d77829787c03e7d1e3dabf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3c01540f689ab74dc5d2346cebc1f09c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b4c0188cb5855864cc63dd8b01d0e047
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5a092c94162212525809a8a97d8de5f2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7b9c8d4a1896d84d92ab4820edd025a6
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+7b9c8d4a1896d84d92ab4820edd025a6	003_001	100.000	253	0	0	1	253	517	769	1.30e-139	487
+7b9c8d4a1896d84d92ab4820edd025a6	080_001	100.000	253	0	0	1	253	509	761	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: ccef1ba90f0bd209d05f65ac396f2bc6
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6aaac37f56d07ffcea4fe9ef1cd00d2f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7eb81956a94f0214e62b8ec9463972c1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4105fad159e2d6a53e285471c3fe5cd5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6e0d2d907bbe9a89cd0c226980fff5f4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a899e513e762a0730e59290d63ec33c8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0e2e91fba1ca9ed7de2d11ea4786c914
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5b9305abe9131ab077f971551c108db7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 68262884f1021c896f8e1bf7348d773c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 446b888f8119b56e60b68ad01e3dd288
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a4cbe987942964b584e95e4efab6a176
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3ebe761bfb1238c87195d431f41bf976
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+3ebe761bfb1238c87195d431f41bf976	026_002	100.000	253	0	0	1	253	503	755	1.30e-139	487
+3ebe761bfb1238c87195d431f41bf976	026_001	100.000	253	0	0	1	253	512	764	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 092f4b706da5f955af7432561d292cea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b65410081c87ed629211d7fb136ec45f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f30c976bd39acbbfc8564c7beba4b875
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d6407426a326d0bd8663a18e3e7f38b3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5cdef913913e1913b2b59545ce8a9635
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fb5fb7958041614cc96935922d55bab0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e6241ffe2fa3e3a874f232d6aafd0177
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0b9b9f960eeeafdc5212a3573b288651
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8b112a3d78d318b40b46b3880a5ac5ce
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f9f60c2b7142924f5bf6369037234212
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ff9d93d7b7e46787568f2d241caeaf3b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2e00c26062ea6467e7813073c96ce271
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3d141a31f0774d5220f1701ad5f037c1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d948753ca694ff1abcff7f661fbd23c4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 01e091f43040afd97fc6b5ed9e0b55f7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4cbfff144d4e7a4e0f4619ed505be070
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 18cda6ce7e2ea7ca0d8f1ad9924df7e9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c446deb131fcc44553f50d10c5f7e52b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c06ccd1f7d57566ef669942328b1a946
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6376ea6dab7d0fde3cd66f53b57e1484
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 77f352b310dc941a969edf6536c2e820
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 41f5c878cebd5919bf3ec822bcda3aa7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fa3be2840777c910e6ffcce73ddc962d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 244b4f211e30c438c80296f0d6729dc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fc54af2b9af5f99ab84c7c5649e2c242
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b155d97b79acc3086ce118451afa0124
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e07335a5728ae99dede126fe774eaad1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f2cb3c654f5b42e4032f57d378a2b725
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 06f825b512d903b9230e1a55d87359ee
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 8647868fbd7dd14914f8201809e4d673
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2fb53dd1ade57d8de78f22ff04569b52
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 91a093473cad95da81d9ebb47d5ef0c5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 128663d8fbf501fb5f4812f214e4f1bc
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ecac46ce689a08433378356daacb323a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b44c044230b4cbfe1ed3869e6c5bc5fd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e2671786feec45f6bf898cb1e27e70d4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 768df033a193663e6e7d80b72ac32035
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9e701e82d552ee66d9007fa3883b6560
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6be191eeeecb67c7c6203fb18a7c209e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 78db7fa6b16b73b101fbb8b282b5330e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ee92daa238d9b91f85aef29b32ee15c0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ba99dcbf16da30112ea68753ad99694d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9cca219ac7e1d9722ab63545dc219ecd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5d1c9a78e3cea0d52ff7acc1aa12453e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0d989d155d117292c5198a2ac218a97f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: feab199d0e6b1d2bd9d063350ce264da
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 27ac09432b451032fc4a97600a1050ce
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1c15cc2e879cebc8e17c951a3be01044
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7a8d0125158d1dded935e4652afc68d7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dc1ddb39b50d56df725a0b5b4487c54c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 82b9167d655219f20db2ac1ac2b00a31
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7fb31d5f730990cf24f8e1703280ce60
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fb7e8bab43b68e52c6bddfeba6ea72f0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4f81d02e23cfab33c214480db9edb178
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d46e2205f0c6ecf67b51f83d111c509c
+# Database: ../../../../../databases/MOMD/MOMD
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+d46e2205f0c6ecf67b51f83d111c509c	019_001	100.000	253	0	0	1	253	515	767	1.30e-139	487
+d46e2205f0c6ecf67b51f83d111c509c	034_001	100.000	253	0	0	1	253	500	752	1.30e-139	487
+d46e2205f0c6ecf67b51f83d111c509c	048_001	100.000	253	0	0	1	253	525	777	1.30e-139	487
+# BLASTN 2.9.0+
+# Query: 35fda85c645266be6de99032e5d3903c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 46f0ee51310d89d76b4c19557925d01d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 643078f0284faa2290e9c14697d29c4d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7740f6383371b4141749456bbd7c6e32
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 581a55014641e1cd55cdc272c0365a28
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7a80eb794179e899066579742bc71f18
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2c50a6eb6c24a9cb0c59de81a17d66eb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7f419ffd25fceab32e68a87a686e1e00
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 10a3b3d5097e7e4d1e200ea7904cfb4f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 680b2a1833c5c2699fe4d5dea7cc0960
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bcfa4c345bac25d6fa1dbe261b4f4e3c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5673ae66819e3bdbbc09461e4959159e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1c7bdc6ae38c4f7a437813380e5de8d3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 536e1fb7fd88f5a6c56aac6be779ab22
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f0dcc39690e4ce98b5d9a9d2f71d7983
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: aab3eb2430d8381177eb66ceda5f02f2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d7348b86110af99c20176a0c0aa0697a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 66a879eee44e712c1e1db54b475e4463
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3657141ee1aec3d3c3b1c06fdb76c26d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ce90d3362197e60700a795f8824e581d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ff2bc8a0b36d8955c9b1d9a5ae575fc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 43fddf1528d4a98928fd8c3a8ac23bfd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9b517a76f9e245bb9b27d2b8ac51acf9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d69c4cf4b5b2ee27750d23e872a94e65
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: eeb313099658b719f30d5ffe33efbae3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 60a4f4cd3664a4b890be7fd2c581a2bf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d4e60453ad4706211631ab85e4ee72a5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1bde0511358fb5d28961907d8976cb34
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ea93341e08300bd78c3ea01820b82240
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6418fbaba23ffaf616ae564be30a1d55
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 31e3822ebcdeacf3a8b63576e424e9ed
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 24912d5c5f528cebc03c780265303a53
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a69fc10a7627cd4f499a260ae0623b36
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 228054c9508f62ccd91034506dd3163e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1027dcb3149407b54b6d32e346d2e490
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c6f7cdf9fe28824744f10e313c43151d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 85ba7a28074898f73f2c043f2db5f203
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 889ac987a7c45535b48960f476364ede
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 91198a3cad5a1bdd7d44161442f97191
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3e56dbcdab2ecf4934aa46f59c399431
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c723c34b1df3fd3a24f1a3c8a5e64710
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5a66ada7be8fb81c81b1cc59280786bf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 04551d3323a786ff624839f426ede82d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1f72a4856d41a0dafed67d7346042ec4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 10de7c04ff0b9dc89e4a6a1876a7b989
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a6579adddd280660b5e212ff9556e5fe
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7d4f1c68eb135d2daae48d67ee9cb0a7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 56ce290384a3bf4a720b666f022ce43d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 520529d0ff657e82c5564677cbf71bfe
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 600bd76814225d665a0f783bab0be4b1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 09b2aadbde89fc4e9d2a28a36aaebb4f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5680c6cd57e971e66d0f537fe7ccc8aa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b306b305fd1e6de902363b591fd28fac
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 11bd42618c2bf85792db5e212cc25a13
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 234e9a9d23747799b23da12e4255feee
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a537d8bab85c83b0e74c73c55790324b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dc96e2fb1ea8479afdcce6e5b7e9e6c3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 75987fcfb2927ee5839ef50a1a483292
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b6c84a01739daf0bf8b6c122d80a4899
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b5211e90bfbe2d8742caac0424c28848
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 12322f15c5dcca422f121c2e90eb3566
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a1cece78c2429918be08788247323e9b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0bed1935240cecb081267d42c81970f4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a2a712312dcdc20972e5322534e60f58
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: dbbc1f36b5146049932f676bb621c30f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 08698289bc55e568dfd2c2af36749696
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4a88f63caed04eea76b2b1ecb2d2a7a3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 26cfad9d96f3cbbdf97dfd3bf8c60a56
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 76a2a89fb35336e7b117fc44ff915092
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c97f77dd1625906e5c413218a4e3d558
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a2fb5275c4bc34f8b04483d44feb2bd7
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cfc997f8a02ae7c1f292998ddaebbade
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d33c0b23bbfa8142b23d478189ea7862
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b254b0a96670eb8ac6c98ff8a5449f9e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: da3bd52fcafb5ed68db77f3a271a7061
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a17e7a5f63ec38af2706727d0eda6092
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4b10a3023d0a0ee30bb91e328511d2fd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b8c545c99dea06d010eb0bf2c6572d1c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 74c5559a2d116957e920567193942cb3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9ca253b767a4a23bd7efb772c2addb31
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 35f3bdfddc3995871aff06e9938f6f94
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: daf0946f5e4378094030a0a3a0d6b75d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5496075cae9bf29da43b3b7ad4576e74
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bd1e5419c1f43e9a80476a10d9f103cf
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e23e842e75845cf108878ddf1212a5b8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a9226db943e4f087f047d92ecc7ffcc8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b47910fad236ce80ebf35f7f1bb86257
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b0f89796273cebf8cd3fc70effbf82ff
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4cf9e4e4e9b49d9e5cdec7b63f014954
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 051fca0e911639653a7c13cd03922717
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ae114ca5a0a3deca4d68093d0040e845
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b19c858bdb656e2dd81a3c86cd175055
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a4c092e579b1639cf20a3be4cd1eb73e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ec9a185fcf71cadcf74286ec618a79ef
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5a20f13f79e27daf4b25236b7b5adad1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: fd155c9c51b130fc86af1ec673761dc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: da035d7fc990212a51184033a49d5ebd
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 565a50bf14c41930fde65d14aa7ab419
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0416adf3fc4146376f30a9b44722e38a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f889b5b6f5cfd766dda370cbbbda930b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: adde733f9929315b99aa58b4ca89e9e2
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 31e8ec20958c1731b58fef7fdae84396
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a5c42f8b26eb0c3bbd0470198331f28c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b028ceae01e0a22ab734b9a4f3c933d0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 40874d61006874f7c87d904707d320d9
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 54a24eed57e2cc44d93cec19e0e5119d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5352ab2a7dac935e6096272dd40bc6ef
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 70ca917bb085b4557c6050c60e1ae3d8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a0da905b7974c508f32fe0aeabf7cd0c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 354634e546930ebf8f65392f372a06af
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 64fc5ed93faf5bc122e03890c7c386ef
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4d1c89063767e95e158436d291d4bcc4
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e2e70b095922f2a6db160a3a5f8a51bb
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c36705b35e3ee01dd683ce4ccb3071ec
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 87cd9519cb13e6058e7e5fca5caa851e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0d6dbc0ebf2ca4f51e99b0e3434b6624
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 47d444f450c2b2dcbb8008d088d69747
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 02c209a155cca8735269951bf4973d9e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bd05123e1ed00db74a5047acb88c5f1d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d175879ab3f2c81ae1c4c57f83fe976c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3d43dfa8f0ad516a210c3bb37f6d3f89
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 36ab36e7ac3ab481838d1c0227b2dc2e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a605531b128dbf0c0b808966ada0bd6a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bcab66a1830b59703c2bc995ad384576
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: b16e3556c6fac160527b04d7f99fde77
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6ba3c2d3d4244c611e40f0c9996916c5
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: cea3982a4f866a095e21a34ffb10bc18
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e9b5c8b0d08899ab56dfb1de143a5f79
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: bbe85d138d1a88eb5e80abc6c7dd806d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f1060fd619bda2151302670b94da9afa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 5f54af20cac33fc5ff5bcc5924b19e3c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 579a8d8aa02643bfb561b8f8c44abe7f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 20f976a10b9a9ea672e6649a5a4d376e
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3d5baff45729bf2214074c2e9f77ad10
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f5aca4bd053fc59bf5edb98f0c889dc1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 04e96270cf8ff7e178e24c0e9bf4465d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c5fe38e6c0ec0be0624cbeef95f10117
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 97a22a9a2d84d4f09ef32ed16fbdb673
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 60187fbe7042ba1af7e1febd46042463
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 17eff6cf3b6d15676cb64480214f1934
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 4e8a6ab5eb7b976932f678b19cf96824
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9cd877d534ddbe3cc90cef00ce5aafc3
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 12023d0cfeeb1fa8d65b4d449200301f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3a7bd9cdfe78e093ed200d6be1331123
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 9905f7a29c9b7530c2c630cc808b3ef8
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f9e90552bc0d91f7910b27b012469f10
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 26f173c04574871aba8876838e2d9e61
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 7ac08836fb6f1f53f512ceeed1318907
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 76b6b7825915007024de87f040429884
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a302ce74aa1238fe4730b0181e373b3a
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: db254be1d500665d24af5c931d25ae46
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6ada1de1bd07281f506cf14124ef273c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6c04a556b738ccc0fc1ee0dfb0334c44
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 3c7ef7981b1727e3f216acffe4c057d0
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 912b5da7c6218ef72ab2cc728e46ce9d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 33873768f5c0c27437d55b7fd4cbda22
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: c59964dba2566c130073a22c9b4e915d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 1a883863725eead9924f1c1ae4f7f3da
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: eaee83e85ee60a3037b03c042e31f732
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: ceb1a3ac54c9763613d51eb52b1edbea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 57e004c428aa50fe1cc37bdc1d46079d
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d8c550bbb50b97ed8e552ab1eccd4352
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: da6a7cba87e0895b9cbe6037b9bd8b3b
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 846eb3442b06d98d439a86b95886caea
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: f16ebdc0f55ee36421412ee28e794539
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 0c2d1909b9b17f119ed68d167dbf70c1
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: d1ec9052f7c3fe43ddd5c60db74e478f
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 2e82f0a6e000d1175398088dd18eec06
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 055a152af3de0f154d64498dabcaa125
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 442f093e392d58dc3c0831d4ea5354fa
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: a6f36ae440733e414ff6dc7073f08970
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 6a488b59170dfe78137f884be500d984
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: e38bafa6321bd4ed4b15f934c3eb652c
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 94449e733795099986eb5c23cc549969
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLASTN 2.9.0+
+# Query: 59542bcdef63462fea120bf9b3c89c99
+# Database: ../../../../../databases/MOMD/MOMD
+# 0 hits found
+# BLAST processed 781 queries
