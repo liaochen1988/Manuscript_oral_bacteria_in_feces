@@ -1,0 +1,1 @@
+blastn -db ../../../../databases/HMPv35oral/HMPv35oral -query ../MSK_ASV_ALL.fasta -out blast_HMPv35oral_p$1.txt -perc_identity $1 -qcov_hsp_perc 100 -ungapped -outfmt 7 -max_target_seqs 100 -num_threads 24

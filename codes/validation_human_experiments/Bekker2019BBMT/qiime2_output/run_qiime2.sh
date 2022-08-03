@@ -1,0 +1,59 @@
+#---------------------------
+# import pairend fastq files
+#---------------------------
+#qiime tools import \
+#  --type 'SampleData[PairedEndSequencesWithQuality]' \
+#  --input-path manifest.tsv \
+#  --output-path paired-end-demux.qza \
+#  --input-format PairedEndFastqManifestPhred33V2
+
+#-------------------
+# cut primer/adapter
+#-------------------
+#qiime cutadapt trim-paired \
+#    --i-demultiplexed-sequences paired-end-demux.qza \
+#    --p-cores 16 \
+#    --p-front-f GTGCCAGCMGCCGCGGTAA \
+#    --p-front-r GGACTACHVGGGTWTCTAAT \
+#    --p-error-rate 0.1 \
+#    --p-overlap 3 \
+#    --verbose \
+#    --o-trimmed-sequences paired-end-demux-trimmed.qza
+
+#qiime demux summarize \
+#  --i-data paired-end-demux-trimmed.qza \
+#  --o-visualization paired-end-demux-trimmed.qzv
+
+#qiime tools view paired-end-demux-trimmed.qzv
+
+#--------------
+# DADA2 denoise
+#--------------
+qiime dada2 denoise-paired \
+  --i-demultiplexed-seqs paired-end-demux-trimmed.qza \
+  --p-trunc-len-f 200 \
+  --p-trunc-len-r 160 \
+  --p-n-threads 36 \
+  --o-table table.qza \
+  --o-representative-sequences rep-seqs.qza \
+  --o-denoising-stats denoising-stats.qza
+
+qiime tools export \
+  --input-path table.qza \
+  --output-path feature-table
+biom convert -i feature-table/feature-table.biom -o feature-table/feature-table.from_biom.txt --to-tsv
+
+qiime tools export \
+   --input-path rep-seqs.qza \
+   --output-path asv-sequences
+
+#---------------------
+# taxonomic assignment
+#---------------------
+qiime feature-classifier classify-sklearn \
+  --i-classifier ~/Documents/silva-138-99-nb-classifier.qza \
+  --i-reads rep-seqs.qza \
+  --p-n-jobs 36 \
+  --p-confidence 0.8 \
+  --o-classification taxonomy.qza
+
