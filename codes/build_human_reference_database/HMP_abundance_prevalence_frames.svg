@@ -1,0 +1,2262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 639.6 276.7" style="enable-background:new 0 0 639.6 276.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{stroke:#000000;stroke-width:0.8;stroke-linejoin:round;}
+	.st2{font-family:'ArialMT';}
+	.st3{font-size:10px;}
+	.st4{font-size:12px;}
+	.st5{font-size:7px;}
+	.st6{stroke:#000000;stroke-width:0.6;stroke-linejoin:round;}
+	.st7{clip-path:url(#SVGID_2_);fill:none;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:5.55,2.4;}
+	.st8{clip-path:url(#SVGID_4_);fill:none;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:5.55,2.4;}
+	.st9{fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;}
+	.st10{clip-path:url(#SVGID_6_);fill:none;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:5.55,2.4;}
+	.st11{clip-path:url(#SVGID_8_);fill:none;stroke:#000000;stroke-width:1.5;stroke-linejoin:round;stroke-dasharray:5.55,2.4;}
+</style>
+<g id="figure_1">
+	<g id="patch_1">
+		<path class="st0" d="M0,276.7h639.6V0H0V276.7z"/>
+	</g>
+	<g id="axes_1">
+		<g id="matplotlib.axis_1">
+			<g id="xtick_1">
+				<g id="line2d_1">
+					<g>
+						<g>
+							<path id="m8e5a704b1a" class="st1" d="M61.8,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_1">
+					<g transform="translate(50.076383 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6856 -4.8047)" class="st2 st5">8</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_2">
+				<g id="line2d_2">
+					<g>
+						<g>
+							<path class="st1" d="M130.9,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_2">
+					<g transform="translate(119.110485 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">6</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_3">
+				<g id="line2d_3">
+					<g>
+						<g>
+							<path class="st1" d="M199.9,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_3">
+					<g transform="translate(188.144586 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -6.408741e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.408741e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.408741e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">4</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_4">
+				<g id="line2d_4">
+					<g>
+						<g>
+							<path class="st1" d="M268.9,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_4">
+					<g transform="translate(257.178688 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">2</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_5">
+				<g id="line2d_5">
+					<g>
+						<g>
+							<path id="mf09a6256fb" class="st6" d="M37.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_6">
+				<g id="line2d_6">
+					<g>
+						<g>
+							<path class="st6" d="M43.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_7">
+				<g id="line2d_7">
+					<g>
+						<g>
+							<path class="st6" d="M48.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_8">
+				<g id="line2d_8">
+					<g>
+						<g>
+							<path class="st6" d="M51.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_9">
+				<g id="line2d_9">
+					<g>
+						<g>
+							<path class="st6" d="M54.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_10">
+				<g id="line2d_10">
+					<g>
+						<g>
+							<path class="st6" d="M56.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_11">
+				<g id="line2d_11">
+					<g>
+						<g>
+							<path class="st6" d="M58.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_12">
+				<g id="line2d_12">
+					<g>
+						<g>
+							<path class="st6" d="M60.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_13">
+				<g id="line2d_13">
+					<g>
+						<g>
+							<path class="st6" d="M72.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_14">
+				<g id="line2d_14">
+					<g>
+						<g>
+							<path class="st6" d="M78.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_15">
+				<g id="line2d_15">
+					<g>
+						<g>
+							<path class="st6" d="M82.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_16">
+				<g id="line2d_16">
+					<g>
+						<g>
+							<path class="st6" d="M86,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_17">
+				<g id="line2d_17">
+					<g>
+						<g>
+							<path class="st6" d="M88.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_18">
+				<g id="line2d_18">
+					<g>
+						<g>
+							<path class="st6" d="M91,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_19">
+				<g id="line2d_19">
+					<g>
+						<g>
+							<path class="st6" d="M93,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_20">
+				<g id="line2d_20">
+					<g>
+						<g>
+							<path class="st6" d="M94.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_21">
+				<g id="line2d_21">
+					<g>
+						<g>
+							<path class="st6" d="M106.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_22">
+				<g id="line2d_22">
+					<g>
+						<g>
+							<path class="st6" d="M112.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_23">
+				<g id="line2d_23">
+					<g>
+						<g>
+							<path class="st6" d="M117.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_24">
+				<g id="line2d_24">
+					<g>
+						<g>
+							<path class="st6" d="M120.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_25">
+				<g id="line2d_25">
+					<g>
+						<g>
+							<path class="st6" d="M123.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_26">
+				<g id="line2d_26">
+					<g>
+						<g>
+							<path class="st6" d="M125.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_27">
+				<g id="line2d_27">
+					<g>
+						<g>
+							<path class="st6" d="M127.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_28">
+				<g id="line2d_28">
+					<g>
+						<g>
+							<path class="st6" d="M129.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_29">
+				<g id="line2d_29">
+					<g>
+						<g>
+							<path class="st6" d="M141.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_30">
+				<g id="line2d_30">
+					<g>
+						<g>
+							<path class="st6" d="M147.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_31">
+				<g id="line2d_31">
+					<g>
+						<g>
+							<path class="st6" d="M151.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_32">
+				<g id="line2d_32">
+					<g>
+						<g>
+							<path class="st6" d="M155,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_33">
+				<g id="line2d_33">
+					<g>
+						<g>
+							<path class="st6" d="M157.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_34">
+				<g id="line2d_34">
+					<g>
+						<g>
+							<path class="st6" d="M160,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_35">
+				<g id="line2d_35">
+					<g>
+						<g>
+							<path class="st6" d="M162,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_36">
+				<g id="line2d_36">
+					<g>
+						<g>
+							<path class="st6" d="M163.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_37">
+				<g id="line2d_37">
+					<g>
+						<g>
+							<path class="st6" d="M175.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_38">
+				<g id="line2d_38">
+					<g>
+						<g>
+							<path class="st6" d="M181.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_39">
+				<g id="line2d_39">
+					<g>
+						<g>
+							<path class="st6" d="M186.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_40">
+				<g id="line2d_40">
+					<g>
+						<g>
+							<path class="st6" d="M189.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_41">
+				<g id="line2d_41">
+					<g>
+						<g>
+							<path class="st6" d="M192.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_42">
+				<g id="line2d_42">
+					<g>
+						<g>
+							<path class="st6" d="M194.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_43">
+				<g id="line2d_43">
+					<g>
+						<g>
+							<path class="st6" d="M196.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_44">
+				<g id="line2d_44">
+					<g>
+						<g>
+							<path class="st6" d="M198.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_45">
+				<g id="line2d_45">
+					<g>
+						<g>
+							<path class="st6" d="M210.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_46">
+				<g id="line2d_46">
+					<g>
+						<g>
+							<path class="st6" d="M216.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_47">
+				<g id="line2d_47">
+					<g>
+						<g>
+							<path class="st6" d="M220.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_48">
+				<g id="line2d_48">
+					<g>
+						<g>
+							<path class="st6" d="M224,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_49">
+				<g id="line2d_49">
+					<g>
+						<g>
+							<path class="st6" d="M226.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_50">
+				<g id="line2d_50">
+					<g>
+						<g>
+							<path class="st6" d="M229.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_51">
+				<g id="line2d_51">
+					<g>
+						<g>
+							<path class="st6" d="M231.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_52">
+				<g id="line2d_52">
+					<g>
+						<g>
+							<path class="st6" d="M232.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_53">
+				<g id="line2d_53">
+					<g>
+						<g>
+							<path class="st6" d="M244.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_54">
+				<g id="line2d_54">
+					<g>
+						<g>
+							<path class="st6" d="M250.9,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_55">
+				<g id="line2d_55">
+					<g>
+						<g>
+							<path class="st6" d="M255.2,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_56">
+				<g id="line2d_56">
+					<g>
+						<g>
+							<path class="st6" d="M258.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_57">
+				<g id="line2d_57">
+					<g>
+						<g>
+							<path class="st6" d="M261.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_58">
+				<g id="line2d_58">
+					<g>
+						<g>
+							<path class="st6" d="M263.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_59">
+				<g id="line2d_59">
+					<g>
+						<g>
+							<path class="st6" d="M265.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_60">
+				<g id="line2d_60">
+					<g>
+						<g>
+							<path class="st6" d="M267.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_61">
+				<g id="line2d_61">
+					<g>
+						<g>
+							<path class="st6" d="M279.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_62">
+				<g id="line2d_62">
+					<g>
+						<g>
+							<path class="st6" d="M285.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_63">
+				<g id="line2d_63">
+					<g>
+						<g>
+							<path class="st6" d="M289.7,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_64">
+				<g id="line2d_64">
+					<g>
+						<g>
+							<path class="st6" d="M293.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_65">
+				<g id="line2d_65">
+					<g>
+						<g>
+							<path class="st6" d="M295.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_66">
+				<g id="line2d_66">
+					<g>
+						<g>
+							<path class="st6" d="M298.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_67">
+				<g id="line2d_67">
+					<g>
+						<g>
+							<path class="st6" d="M300.1,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_68">
+				<g id="line2d_68">
+					<g>
+						<g>
+							<path class="st6" d="M301.9,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_69">
+				<g id="line2d_69">
+					<g>
+						<g>
+							<path class="st6" d="M313.8,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="matplotlib.axis_2">
+			<g id="ytick_1">
+				<g id="line2d_70">
+					<g>
+						<g>
+							<path id="mb1aa486ac7" class="st1" d="M37.7,231.3h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_5">
+					<g transform="translate(7.2 235.14084)">
+						<text transform="matrix(1 0 0 1 0 -0.9765)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9765)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9765)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">8</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_2">
+				<g id="line2d_71">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,200.6h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_6">
+					<g transform="translate(7.2 204.44084)">
+						<text transform="matrix(1 0 0 1 0 -6.407198e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.407198e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.407198e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">7</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_3">
+				<g id="line2d_72">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,169.9h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_7">
+					<g transform="translate(7.2 173.74084)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">6</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_4">
+				<g id="line2d_73">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,139.2h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_8">
+					<g transform="translate(7.2 143.04084)">
+						<text transform="matrix(1 0 0 1 0 -6.408739e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.408739e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.408739e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">5</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_5">
+				<g id="line2d_74">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,108.5h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_9">
+					<g transform="translate(7.2 112.34084)">
+						<text transform="matrix(1 0 0 1 0 -6.404857e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.404857e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.404857e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">4</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_6">
+				<g id="line2d_75">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,77.8h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_10">
+					<g transform="translate(7.2 81.64084)">
+						<text transform="matrix(1 0 0 1 0 -0.9765)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9765)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9765)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">3</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_7">
+				<g id="line2d_76">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,47.1h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_11">
+					<g transform="translate(7.2 50.94084)">
+						<text transform="matrix(1 0 0 1 0 -0.9765)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9765)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9765)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">2</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_8">
+				<g id="line2d_77">
+					<g>
+						<g>
+							<path class="st1" d="M37.7,16.4h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_12">
+					<g transform="translate(7.2 20.24084)">
+						<text transform="matrix(1 0 0 1 0 -6.408319e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.408319e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.408319e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">1</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_9">
+				<g id="line2d_78">
+					<g>
+						<g>
+							<path id="m306bf59535" class="st6" d="M37.7,252.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_10">
+				<g id="line2d_79">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,247.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_11">
+				<g id="line2d_80">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,243.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_12">
+				<g id="line2d_81">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,240.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_13">
+				<g id="line2d_82">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,238.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_14">
+				<g id="line2d_83">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,236.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_15">
+				<g id="line2d_84">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,234.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_16">
+				<g id="line2d_85">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,232.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_17">
+				<g id="line2d_86">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,222.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_18">
+				<g id="line2d_87">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,216.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_19">
+				<g id="line2d_88">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,212.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_20">
+				<g id="line2d_89">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,209.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_21">
+				<g id="line2d_90">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,207.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_22">
+				<g id="line2d_91">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,205.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_23">
+				<g id="line2d_92">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,203.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_24">
+				<g id="line2d_93">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,202h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_25">
+				<g id="line2d_94">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,191.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_26">
+				<g id="line2d_95">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,186h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_27">
+				<g id="line2d_96">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,182.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_28">
+				<g id="line2d_97">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,179.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_29">
+				<g id="line2d_98">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,176.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_30">
+				<g id="line2d_99">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,174.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_31">
+				<g id="line2d_100">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,172.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_32">
+				<g id="line2d_101">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,171.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_33">
+				<g id="line2d_102">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,160.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_34">
+				<g id="line2d_103">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,155.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_35">
+				<g id="line2d_104">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,151.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_36">
+				<g id="line2d_105">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,148.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_37">
+				<g id="line2d_106">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,146.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_38">
+				<g id="line2d_107">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,144h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_39">
+				<g id="line2d_108">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,142.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_40">
+				<g id="line2d_109">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,140.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_41">
+				<g id="line2d_110">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,130h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_42">
+				<g id="line2d_111">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,124.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_43">
+				<g id="line2d_112">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,120.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_44">
+				<g id="line2d_113">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,117.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_45">
+				<g id="line2d_114">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,115.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_46">
+				<g id="line2d_115">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,113.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_47">
+				<g id="line2d_116">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,111.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_48">
+				<g id="line2d_117">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,109.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_49">
+				<g id="line2d_118">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,99.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_50">
+				<g id="line2d_119">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,93.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_51">
+				<g id="line2d_120">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,90.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_52">
+				<g id="line2d_121">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,87.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_53">
+				<g id="line2d_122">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,84.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_54">
+				<g id="line2d_123">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,82.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_55">
+				<g id="line2d_124">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,80.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_56">
+				<g id="line2d_125">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,79.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_57">
+				<g id="line2d_126">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,68.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_58">
+				<g id="line2d_127">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,63.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_59">
+				<g id="line2d_128">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,59.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_60">
+				<g id="line2d_129">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,56.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_61">
+				<g id="line2d_130">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,54h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_62">
+				<g id="line2d_131">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,51.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_63">
+				<g id="line2d_132">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,50.1h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_64">
+				<g id="line2d_133">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,48.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_65">
+				<g id="line2d_134">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,37.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_66">
+				<g id="line2d_135">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,32.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_67">
+				<g id="line2d_136">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,28.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_68">
+				<g id="line2d_137">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,25.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_69">
+				<g id="line2d_138">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,23.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_70">
+				<g id="line2d_139">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,21.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_71">
+				<g id="line2d_140">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,19.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_72">
+				<g id="line2d_141">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,17.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_73">
+				<g id="line2d_142">
+					<g>
+						<g>
+							<path class="st6" d="M37.7,7.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="line2d_143">
+			<g>
+				<defs>
+					<rect id="SVGID_1_" x="37.7" y="7.2" width="276.1" height="245.6"/>
+				</defs>
+				<clipPath id="SVGID_2_">
+					<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st7" d="M37.7,108.5h276.1"/>
+			</g>
+		</g>
+		<g id="line2d_144">
+			<g>
+				<defs>
+					<rect id="SVGID_3_" x="37.7" y="7.2" width="276.1" height="245.6"/>
+				</defs>
+				<clipPath id="SVGID_4_">
+					<use xlink:href="#SVGID_3_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st8" d="M199.9,252.8V-1"/>
+			</g>
+		</g>
+		<g id="patch_3">
+			<path class="st9" d="M37.7,252.8V7.2"/>
+		</g>
+		<g id="patch_4">
+			<path class="st9" d="M313.8,252.8V7.2"/>
+		</g>
+		<g id="patch_5">
+			<path class="st9" d="M37.7,252.8h276.1"/>
+		</g>
+		<g id="patch_6">
+			<path class="st9" d="M37.7,7.2h276.1"/>
+		</g>
+	</g>
+	<g id="axes_2">
+		<g id="matplotlib.axis_3">
+			<g id="xtick_70">
+				<g id="line2d_145">
+					<g>
+						<g>
+							<path class="st1" d="M374.3,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_13">
+					<g transform="translate(362.565762 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -6.408741e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.408741e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.408741e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">4</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_71">
+				<g id="line2d_146">
+					<g>
+						<g>
+							<path class="st1" d="M434.3,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_14">
+					<g transform="translate(422.568545 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">3</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_72">
+				<g id="line2d_147">
+					<g>
+						<g>
+							<path class="st1" d="M494.3,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_15">
+					<g transform="translate(482.571328 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">2</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_73">
+				<g id="line2d_148">
+					<g>
+						<g>
+							<path class="st1" d="M554.3,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_16">
+					<g transform="translate(542.574111 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -6.408741e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.408741e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.408741e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">1</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_74">
+				<g id="line2d_149">
+					<g>
+						<g>
+							<path class="st1" d="M614.3,252.8v3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_17">
+					<g transform="translate(605.526894 267.398437)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">0</text>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_75">
+				<g id="line2d_150">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_76">
+				<g id="line2d_151">
+					<g>
+						<g>
+							<path class="st6" d="M361,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_77">
+				<g id="line2d_152">
+					<g>
+						<g>
+							<path class="st6" d="M365,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_78">
+				<g id="line2d_153">
+					<g>
+						<g>
+							<path class="st6" d="M368.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_79">
+				<g id="line2d_154">
+					<g>
+						<g>
+							<path class="st6" d="M371.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_80">
+				<g id="line2d_155">
+					<g>
+						<g>
+							<path class="st6" d="M392.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_81">
+				<g id="line2d_156">
+					<g>
+						<g>
+							<path class="st6" d="M402.9,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_82">
+				<g id="line2d_157">
+					<g>
+						<g>
+							<path class="st6" d="M410.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_83">
+				<g id="line2d_158">
+					<g>
+						<g>
+							<path class="st6" d="M416.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_84">
+				<g id="line2d_159">
+					<g>
+						<g>
+							<path class="st6" d="M421,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_85">
+				<g id="line2d_160">
+					<g>
+						<g>
+							<path class="st6" d="M425,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_86">
+				<g id="line2d_161">
+					<g>
+						<g>
+							<path class="st6" d="M428.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_87">
+				<g id="line2d_162">
+					<g>
+						<g>
+							<path class="st6" d="M431.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_88">
+				<g id="line2d_163">
+					<g>
+						<g>
+							<path class="st6" d="M452.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_89">
+				<g id="line2d_164">
+					<g>
+						<g>
+							<path class="st6" d="M462.9,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_90">
+				<g id="line2d_165">
+					<g>
+						<g>
+							<path class="st6" d="M470.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_91">
+				<g id="line2d_166">
+					<g>
+						<g>
+							<path class="st6" d="M476.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_92">
+				<g id="line2d_167">
+					<g>
+						<g>
+							<path class="st6" d="M481,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_93">
+				<g id="line2d_168">
+					<g>
+						<g>
+							<path class="st6" d="M485,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_94">
+				<g id="line2d_169">
+					<g>
+						<g>
+							<path class="st6" d="M488.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_95">
+				<g id="line2d_170">
+					<g>
+						<g>
+							<path class="st6" d="M491.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_96">
+				<g id="line2d_171">
+					<g>
+						<g>
+							<path class="st6" d="M512.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_97">
+				<g id="line2d_172">
+					<g>
+						<g>
+							<path class="st6" d="M522.9,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_98">
+				<g id="line2d_173">
+					<g>
+						<g>
+							<path class="st6" d="M530.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_99">
+				<g id="line2d_174">
+					<g>
+						<g>
+							<path class="st6" d="M536.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_100">
+				<g id="line2d_175">
+					<g>
+						<g>
+							<path class="st6" d="M541,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_101">
+				<g id="line2d_176">
+					<g>
+						<g>
+							<path class="st6" d="M545,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_102">
+				<g id="line2d_177">
+					<g>
+						<g>
+							<path class="st6" d="M548.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_103">
+				<g id="line2d_178">
+					<g>
+						<g>
+							<path class="st6" d="M551.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_104">
+				<g id="line2d_179">
+					<g>
+						<g>
+							<path class="st6" d="M572.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_105">
+				<g id="line2d_180">
+					<g>
+						<g>
+							<path class="st6" d="M583,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_106">
+				<g id="line2d_181">
+					<g>
+						<g>
+							<path class="st6" d="M590.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_107">
+				<g id="line2d_182">
+					<g>
+						<g>
+							<path class="st6" d="M596.3,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_108">
+				<g id="line2d_183">
+					<g>
+						<g>
+							<path class="st6" d="M601,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_109">
+				<g id="line2d_184">
+					<g>
+						<g>
+							<path class="st6" d="M605,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_110">
+				<g id="line2d_185">
+					<g>
+						<g>
+							<path class="st6" d="M608.5,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_111">
+				<g id="line2d_186">
+					<g>
+						<g>
+							<path class="st6" d="M611.6,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="xtick_112">
+				<g id="line2d_187">
+					<g>
+						<g>
+							<path class="st6" d="M632.4,252.8v2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="matplotlib.axis_4">
+			<g id="ytick_74">
+				<g id="line2d_188">
+					<g>
+						<g>
+							<path class="st1" d="M356.3,232.3h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_18">
+					<g transform="translate(325.753125 236.074028)">
+						<text transform="matrix(1 0 0 1 0 -0.9765)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9765)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9765)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">3</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_75">
+				<g id="line2d_189">
+					<g>
+						<g>
+							<path class="st1" d="M356.3,164.1h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_19">
+					<g transform="translate(325.753125 167.890822)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -4.8047)" class="st2 st5">2</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_76">
+				<g id="line2d_190">
+					<g>
+						<g>
+							<path class="st1" d="M356.3,95.9h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_20">
+					<g transform="translate(325.753125 99.707616)">
+						<text transform="matrix(1 0 0 1 0 -6.406431e-02)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -6.406431e-02)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -6.406431e-02)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -3.8922)" class="st2 st5">−</text>
+						<text transform="matrix(1 0 0 1 18.6855 -3.8922)" class="st2 st5">1</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_77">
+				<g id="line2d_191">
+					<g>
+						<g>
+							<path class="st1" d="M356.3,27.7h-3.5"/>
+						</g>
+					</g>
+				</g>
+				<g id="text_21">
+					<g transform="translate(331.653125 31.524409)">
+						<text transform="matrix(1 0 0 1 0 -0.9766)" class="st2 st3">1</text>
+						<text transform="matrix(1 0 0 1 6.3623 -0.9766)" class="st2 st3">0</text>
+						<text transform="matrix(1 0 0 1 11.9238 -0.9766)" class="st2 st4"> </text>
+						<text transform="matrix(1 0 0 1 12.8203 -4.8047)" class="st2 st5">0</text>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_78">
+				<g id="line2d_192">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,252.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_79">
+				<g id="line2d_193">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,247.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_80">
+				<g id="line2d_194">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,242.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_81">
+				<g id="line2d_195">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,238.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_82">
+				<g id="line2d_196">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,235.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_83">
+				<g id="line2d_197">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,211.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_84">
+				<g id="line2d_198">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,199.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_85">
+				<g id="line2d_199">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,191.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_86">
+				<g id="line2d_200">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,184.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_87">
+				<g id="line2d_201">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,179.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_88">
+				<g id="line2d_202">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,174.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_89">
+				<g id="line2d_203">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,170.7h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_90">
+				<g id="line2d_204">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,167.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_91">
+				<g id="line2d_205">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,143.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_92">
+				<g id="line2d_206">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,131.6h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_93">
+				<g id="line2d_207">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,123h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_94">
+				<g id="line2d_208">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,116.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_95">
+				<g id="line2d_209">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,111h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_96">
+				<g id="line2d_210">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,106.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_97">
+				<g id="line2d_211">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,102.5h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_98">
+				<g id="line2d_212">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,99h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_99">
+				<g id="line2d_213">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,75.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_100">
+				<g id="line2d_214">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,63.4h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_101">
+				<g id="line2d_215">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,54.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_102">
+				<g id="line2d_216">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,48.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_103">
+				<g id="line2d_217">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,42.9h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_104">
+				<g id="line2d_218">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,38.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_105">
+				<g id="line2d_219">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,34.3h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_106">
+				<g id="line2d_220">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,30.8h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+			<g id="ytick_107">
+				<g id="line2d_221">
+					<g>
+						<g>
+							<path class="st6" d="M356.3,7.2h-2"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g id="line2d_222">
+			<g>
+				<defs>
+					<rect id="SVGID_5_" x="356.3" y="7.2" width="276.1" height="245.6"/>
+				</defs>
+				<clipPath id="SVGID_6_">
+					<use xlink:href="#SVGID_5_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st10" d="M356.3,116.4h276.1"/>
+			</g>
+		</g>
+		<g id="line2d_223">
+			<g>
+				<defs>
+					<rect id="SVGID_7_" x="356.3" y="7.2" width="276.1" height="245.6"/>
+				</defs>
+				<clipPath id="SVGID_8_">
+					<use xlink:href="#SVGID_7_"  style="overflow:visible;"/>
+				</clipPath>
+				<path class="st11" d="M536.3,252.8V7.2"/>
+			</g>
+		</g>
+		<g id="patch_8">
+			<path class="st9" d="M356.3,252.8V7.2"/>
+		</g>
+		<g id="patch_9">
+			<path class="st9" d="M632.4,252.8V7.2"/>
+		</g>
+		<g id="patch_10">
+			<path class="st9" d="M356.3,252.8h276.1"/>
+		</g>
+		<g id="patch_11">
+			<path class="st9" d="M356.3,7.2h276.1"/>
+		</g>
+	</g>
+</g>
+</svg>
